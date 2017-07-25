@@ -188,6 +188,8 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2017.2)
+      tzinfo (>= 1.0.0)
     unicode-display_width (1.3.0)
 
 PLATFORMS
@@ -201,6 +203,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   json
+  tzinfo-data
 
 BUNDLED WITH
    1.15.3
