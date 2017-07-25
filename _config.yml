@@ -1,5 +1,4 @@
 port: 4001
-baseurl:     /homepage
 title:            Site Title
 description:      Describe your website here.
 disqus_shortname: 
@@ -51,7 +50,7 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /homepage/:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
