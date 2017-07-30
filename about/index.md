@@ -1,32 +1,54 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About ME
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2016-02-01
+modified: 2017-07-28
 ---
+# **CHEN HANGTING**
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+### Education
+---
+<p><span style="float:right;">2013/09-2017/07</span><span style="float:left;">School of Physics, </span></p>Nanjing University
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+### Honors and Awards
+---
+*National Scholarship* <span style="float:right;">2016</span>
 
-## HPSTR Features:
+*Bronze Medal*, The University Physics Competition <span style="float:right;">2015</span>
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+*The Second Prize Scholarship*, The RENMING Scholarship <span style="float:right;">2015</span>
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+*The First Prize Scholarship*, The XINGQUAN Responsibility Scholarship <span style="float:right;">2014</span>
 
-[^1]: Example: *domain.com/category-name/post-title*
+### Learning and Research Experience
+---
+*A broad knowledge of Physics and Other Fields*
+
+- Have a good command of Theoretical Mechanics, Electrodynamics, Quantum Mechanics, Statistical Physics and Thermodynamics, Solid Physics
+
+- Be well acquainted with Advanced Mathematics, such as Calculus, Linear Algebra
+
+- Skilled in Numerical Computation
+
+*Physics Research*
+
+- Research experience in Quantum Imaging, Nonlinear Optics
+
+
+### Languages
+---
+*Chinese*: Native Language
+
+*English*: Intermediate Listener, Novice Speaker, Advanced Reading and Writing
+
+### Computer Skills
+---
+*Programming*: Skilled in MATLAB, be able to use C and FORTRAN
+
+
+<div markdown="0"><a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download my personal CV</a></div>
+

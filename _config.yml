@@ -1,6 +1,6 @@
 port: 4001
-title:            Site Title
-description:      Describe your website here.
+title:            Hangtingchen's Homepage
+description:      This is the homepage of Chen Hangting.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -10,10 +10,10 @@ url: https://hangtinghen.github.io/homepage
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Chen Hangtinghen
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Wanna be an accomplished scholar in machine learning and now mainly focused on sound and speech."
+  email:         hangtinghen@smail.nju.edu.cn
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
